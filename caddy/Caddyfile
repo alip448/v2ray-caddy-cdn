@@ -1,4 +1,4 @@
-<EXAMPLE.COM> {
+test.pooshaktamooshak.tk {
   root * /usr/share/caddy
 
   @websockets {
