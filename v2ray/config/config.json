@@ -12,7 +12,7 @@
       "settings": {
         "clients": [
           {
-            "id": "<UPSTREAM-UUID>",
+            "id": "c6530151-4191-44eb-b26a-4f2b780b5a80",
             "alterId": 0,
             "security": "auto"
           }
