@@ -1,4 +1,4 @@
-test.yeralmataytay.tk {
+yeralmataytay.tk {
   root * /usr/share/caddy
 
   @websockets {
